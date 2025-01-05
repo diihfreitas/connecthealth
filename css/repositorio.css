@@ -1,0 +1,23 @@
+.repositorio {
+    text-align: center;
+    background: #ebecff;
+    padding: 40px 20px;
+}
+
+.repositorio-texto h2 {
+    color: #144a74;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.repositorio-texto p {
+    color: #616df2;
+    font-size: 1em;
+    padding-bottom: 20px;
+}
+
+.repositorio-lista li {
+    flex-direction: column;
+    list-style: none;
+    display: flex;
+}
